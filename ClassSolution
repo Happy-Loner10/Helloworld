@@ -1,0 +1,3 @@
+class parent (name):
+parent extend(child):
+
